@@ -1,5 +1,4 @@
-Chapter 2: Understanding AI in Nonprofit Organizations
-======================================================
+
 
 Artificial intelligence (AI) is becoming increasingly prevalent in nonprofit organizations. In this chapter, we will explore the different types of AI used in nonprofit organizations, provide an overview of how AI works, and examine the historical development of AI in nonprofit organizations.
 

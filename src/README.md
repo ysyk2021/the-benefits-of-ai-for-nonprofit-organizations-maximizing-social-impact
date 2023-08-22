@@ -1,4 +1,4 @@
-# Introduction
+
 
 The Benefits of AI for Nonprofit Organizations: Maximizing Social Impact is a book that explores how nonprofit organizations can leverage artificial intelligence (AI) to increase their social impact.
 

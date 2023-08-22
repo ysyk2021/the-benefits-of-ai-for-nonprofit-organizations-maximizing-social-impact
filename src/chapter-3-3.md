@@ -1,5 +1,4 @@
-Increased Reach and Impact
-================================================================================
+
 
 In this chapter, we will discuss how AI technology can increase the reach and impact of nonprofit organizations.
 

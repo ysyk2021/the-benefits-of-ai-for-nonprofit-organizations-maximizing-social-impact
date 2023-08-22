@@ -1,5 +1,4 @@
-Enhanced Decision-Making
-==============================================================================
+
 
 In this chapter, we will discuss how AI technology can enhance decision-making in nonprofit organizations.
 

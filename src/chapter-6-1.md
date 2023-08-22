@@ -1,5 +1,4 @@
-Developing an AI Strategy
-================================================================================
+
 
 In this chapter, we will discuss the process of developing an AI strategy for nonprofit organizations.
 

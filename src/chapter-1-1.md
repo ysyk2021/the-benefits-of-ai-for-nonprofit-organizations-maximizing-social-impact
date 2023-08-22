@@ -1,5 +1,4 @@
-Overview of the Book
-=============================================
+
 
 In this book, we explore the benefits of AI for nonprofit organizations and how they can maximize their social impact by effectively implementing and managing AI technology.
 

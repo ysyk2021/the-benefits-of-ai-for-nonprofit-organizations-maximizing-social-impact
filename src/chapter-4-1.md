@@ -1,5 +1,4 @@
-Ethical Considerations
-==============================================================================
+
 
 Artificial intelligence (AI) presents many potential benefits for nonprofit organizations, but it also raises a range of ethical concerns. In this chapter, we will explore some of the key ethical considerations associated with AI in nonprofit organizations.
 

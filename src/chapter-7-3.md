@@ -1,5 +1,4 @@
-Addressing Potential Bias
-============================================================================
+
 
 In this chapter, we will discuss the importance of addressing potential bias in managing AI technology in nonprofit organizations.
 

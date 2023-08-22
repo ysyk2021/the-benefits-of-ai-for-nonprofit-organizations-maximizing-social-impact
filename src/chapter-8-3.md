@@ -1,5 +1,4 @@
-Preparing for the Future
-============================================================================
+
 
 In this chapter, we will discuss the future of AI in nonprofit organizations and how they can prepare for the changes that lie ahead.
 

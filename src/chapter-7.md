@@ -1,5 +1,4 @@
-Chapter 7: Managing AI in Nonprofit Organizations
-=================================================
+
 
 As nonprofit organizations increasingly rely on artificial intelligence (AI) technology to maximize their social impact, it is important to manage this technology effectively. In this chapter, we will explore strategies for managing AI in nonprofit organizations.
 

@@ -1,5 +1,4 @@
-Legal Considerations
-============================================================================
+
 
 Artificial intelligence (AI) offers many benefits for nonprofit organizations, but it also presents a range of legal challenges. In this chapter, we will explore some of the legal considerations associated with AI in nonprofit organizations.
 

@@ -1,5 +1,4 @@
-Advocacy and Policy Analysis
-======================================================================================
+
 
 In addition to fundraising and program delivery, nonprofit organizations can also leverage AI technology for advocacy and policy analysis efforts. In this chapter, we will explore the specific applications of AI in advocacy and policy analysis.
 

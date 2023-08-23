@@ -1,5 +1,4 @@
 
-
 While artificial intelligence (AI) offers many benefits for nonprofit organizations, it also presents a range of challenges, particularly in the areas of privacy and security. In this chapter, we will explore some of the privacy and security concerns associated with AI in nonprofit organizations.
 
 Data Privacy

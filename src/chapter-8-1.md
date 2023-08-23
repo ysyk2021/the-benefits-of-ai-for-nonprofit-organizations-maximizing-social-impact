@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize the way nonprofit organizations operate and achieve their social impact goals. In this chapter, we will explore some of the emerging trends in AI for nonprofit organizations.
 
 Predictive Analytics

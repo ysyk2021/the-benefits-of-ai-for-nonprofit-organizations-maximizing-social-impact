@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) offers many applications for nonprofit organizations, from fundraising and donor engagement to program development and evaluation. In this chapter, we will explore some of the key applications of AI in nonprofit organizations.
 
 Fundraising and Donor Engagement

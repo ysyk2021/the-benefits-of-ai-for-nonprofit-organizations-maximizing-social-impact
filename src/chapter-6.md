@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the process of implementing AI in nonprofit organizations.
 
 Developing an AI Strategy

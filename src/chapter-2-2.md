@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is becoming increasingly prevalent in nonprofit organizations. In this chapter, we will explore the different types of AI used in nonprofit organizations and how they can be used to achieve social impact.
 
 Machine Learning

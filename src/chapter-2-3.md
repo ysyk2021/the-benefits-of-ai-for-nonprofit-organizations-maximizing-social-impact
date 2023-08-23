@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is becoming increasingly prevalent in nonprofit organizations. In this chapter, we will explore how AI works in nonprofit organizations and how it can be used to achieve social impact.
 
 Analyzing Data

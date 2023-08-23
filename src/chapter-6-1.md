@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the process of developing an AI strategy for nonprofit organizations.
 
 The Importance of Developing an AI Strategy

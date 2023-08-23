@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss best practices for implementing AI in nonprofit organizations.
 
 Best Practices for Implementation

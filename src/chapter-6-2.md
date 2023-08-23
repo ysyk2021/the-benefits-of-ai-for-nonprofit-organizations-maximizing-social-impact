@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the challenges of implementing AI in nonprofit organizations and strategies for overcoming resistance to change.
 
 Challenges of Implementing AI in Nonprofit Organizations

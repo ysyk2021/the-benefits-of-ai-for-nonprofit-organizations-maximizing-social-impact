@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) offers many potential benefits for nonprofit organizations, including enhanced decision-making, improved efficiency and productivity, and increased reach and impact. In this chapter, we will explore each of these benefits in more detail.
 
 Enhanced Decision-Making

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has a long history of use in nonprofit organizations. In this chapter, we will provide an overview of the historical development and use of AI in nonprofit organizations.
 
 Early Development of AI in Nonprofit Organizations

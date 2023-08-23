@@ -1,5 +1,4 @@
 
-
 Nonprofit organizations can also leverage AI technology for program development and evaluation efforts. In this chapter, we will explore the specific applications of AI in program development and evaluation.
 
 Needs Assessment

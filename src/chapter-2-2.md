@@ -1,5 +1,4 @@
-Types of AI in Nonprofit Organizations
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has a wide range of applications in nonprofit organizations, empowering them to maximize their social impact. This chapter explores the various types of AI utilized in nonprofit organizations, showcasing their unique capabilities and potential benefits.
 

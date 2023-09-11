@@ -1,5 +1,4 @@
-Overcoming Resistance to Change
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the context of nonprofit organizations, embracing AI technologies and maximizing social impact often requires significant changes to processes, workflows, and organizational culture. However, change is not always easy, and many individuals within nonprofits may resist or be hesitant to adopt new AI-driven approaches. This chapter explores strategies for overcoming resistance to change and fostering a culture that embraces the benefits of AI for maximizing social impact.
 

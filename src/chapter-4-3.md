@@ -1,5 +1,4 @@
-Privacy and Security Concerns
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As nonprofit organizations embrace AI technologies to maximize their social impact, it is crucial to address the privacy and security concerns that arise with the implementation of these technologies. This chapter explores key considerations related to privacy and security and provides guidance on how nonprofits can mitigate risks and protect sensitive information.
 

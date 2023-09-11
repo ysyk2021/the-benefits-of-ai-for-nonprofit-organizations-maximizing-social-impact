@@ -1,5 +1,4 @@
-Program Development and Evaluation
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective program development and evaluation are critical for nonprofit organizations to maximize their social impact. AI technologies offer valuable tools and techniques that can enhance the process, from designing programs to assessing their effectiveness. This chapter explores the benefits of AI in program development and evaluation and how nonprofits can leverage AI to drive positive change.
 

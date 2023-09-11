@@ -1,5 +1,4 @@
-Addressing Potential Bias
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Addressing potential bias is essential when leveraging AI in nonprofit organizations to maximize social impact. While AI technologies offer numerous benefits, they can inadvertently perpetuate or amplify biases present in data and algorithms. This chapter explores the importance of mitigating bias in AI applications and provides strategies for nonprofits to ensure fairness and equity.
 

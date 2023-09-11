@@ -1,5 +1,4 @@
-Ethical Considerations
-======================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As nonprofit organizations embrace AI technologies to maximize their social impact, it is essential to address the ethical considerations that arise with the implementation of these technologies. This chapter explores the key ethical considerations that nonprofits should be mindful of when utilizing AI and provides guidance on ensuring ethical practices in AI-driven initiatives.
 

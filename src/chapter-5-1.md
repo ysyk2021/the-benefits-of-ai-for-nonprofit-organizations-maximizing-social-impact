@@ -1,5 +1,4 @@
-Chapter 5: Fundraising and Donor Engagement
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's increasingly digital world, nonprofit organizations are leveraging the power of artificial intelligence (AI) to enhance their fundraising efforts and engage donors effectively. This chapter explores the various ways in which AI can maximize fundraising success and donor engagement for nonprofit organizations.
 

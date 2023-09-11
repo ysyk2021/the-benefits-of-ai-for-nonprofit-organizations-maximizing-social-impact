@@ -1,5 +1,4 @@
-How AI Works in Nonprofit Organizations
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has revolutionized the way nonprofit organizations operate, enabling them to maximize their social impact. This chapter explores how AI works in nonprofit organizations, highlighting key components and processes involved.
 

@@ -1,5 +1,4 @@
-Best Practices for Implementation
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing AI technologies in nonprofit organizations can be a transformative process that maximizes social impact. However, successful implementation requires careful planning, strategy, and adherence to best practices. This chapter outlines key best practices to consider when implementing AI initiatives in nonprofit organizations.
 

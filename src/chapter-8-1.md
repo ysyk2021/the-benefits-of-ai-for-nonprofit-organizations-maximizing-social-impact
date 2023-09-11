@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of artificial intelligence (AI) is constantly evolving, bringing forth new trends and advancements that have the potential to revolutionize the work of nonprofit organizations. This chapter explores some of the emerging trends in AI that nonprofits should be aware of in order to maximize their social impact.
 

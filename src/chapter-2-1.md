@@ -1,5 +1,4 @@
-Historical Overview of AI in Nonprofit Organizations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the adoption of artificial intelligence (AI) technologies has gained momentum across various sectors, including nonprofit organizations. This chapter provides a historical overview of how AI has evolved and been utilized in nonprofit organizations to maximize social impact.
 

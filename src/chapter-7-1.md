@@ -1,5 +1,4 @@
-Data Management
-===============
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In nonprofit organizations, data management is paramount to effective decision-making, program management, and impact assessment. AI plays an essential role in data management, providing nonprofits with powerful tools to collect, analyze, and utilize data. This chapter explores how AI supports data management in nonprofit organizations and its potential benefits for maximizing social impact.
 

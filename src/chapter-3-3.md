@@ -1,5 +1,4 @@
-Chapter 6: Increased Reach and Impact
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of nonprofit organizations, the use of artificial intelligence (AI) has emerged as a powerful tool to expand reach and maximize social impact. This chapter explores the various ways in which AI can enable nonprofits to extend their reach, connect with new audiences, and achieve greater impact in their missions.
 

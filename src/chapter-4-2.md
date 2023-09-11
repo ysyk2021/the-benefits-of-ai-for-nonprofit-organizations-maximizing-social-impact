@@ -1,5 +1,4 @@
-Legal Considerations
-====================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As nonprofit organizations leverage AI technologies to maximize their social impact, it is crucial to understand and address the legal considerations that arise with the implementation of these technologies. This chapter explores key legal aspects that nonprofits should consider when utilizing AI and provides guidance on compliance with relevant laws and regulations.
 

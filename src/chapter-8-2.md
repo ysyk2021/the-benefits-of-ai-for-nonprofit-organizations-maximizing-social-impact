@@ -1,5 +1,4 @@
-Chapter 8: Potential Challenges and Opportunities
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) technologies in nonprofit organizations brings significant benefits, but it also presents unique challenges and opportunities. This chapter explores some of the potential obstacles and advantages that nonprofits may encounter when leveraging AI to maximize their social impact.
 

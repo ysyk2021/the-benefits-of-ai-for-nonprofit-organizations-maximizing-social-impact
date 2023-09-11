@@ -1,5 +1,4 @@
-Chapter 9: Preparing for the Future
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As technology advances and society changes, nonprofit organizations must prepare for a future that is increasingly shaped by artificial intelligence (AI). This chapter explores some of the key considerations that nonprofits should keep in mind to prepare for the future.
 

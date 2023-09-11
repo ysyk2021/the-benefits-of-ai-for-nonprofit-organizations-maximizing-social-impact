@@ -1,5 +1,4 @@
-Advocacy and Policy Analysis
-============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI is increasingly playing a vital role in advocacy and policy analysis within nonprofit organizations. This chapter explores how AI tools and techniques are used to advance social causes, shape policies, and drive positive change.
 
